@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <div class="container">
+        <div class="row">
+            <header class="col-12" style="margin: 3rem 0">
+                <h1>Consulter les produits de BileMo</h1>
+            </header>
+            <div class="col-12">
+                <h5><a href="{{ path('login') }}">Connectez-vous</a> pour consulter les <a href="{{ path('products') }}">produits</a>.</h5>
+            </div>
+       </div>
+   </div>
+   
+{% endblock %}
