@@ -17,7 +17,7 @@ I use the password authorization grant to access the API.
 Clonez le repository GitHub et tapez les commandes suivantes :
 - composer install
 - Entrez vos identifiants de connexion à la base de données dans app/config/parameters.yml
-- Entrez bilemo_token_url, votre client_id and votre client_secret obtenus après la création du client dans le fichier app/config/parameters.yml.
+- Entrez bilemo_token_url, votre client_id et votre client_secret obtenus après la création du client dans le fichier app/config/parameters.yml.
 
 Clone the GitHub repository and execute the following commands :
 - composer install
