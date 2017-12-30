@@ -4,7 +4,7 @@ Cette application est utilisée pour tester l'API [BileMo](https://github.com/Ma
 
 Vous pouvez vous inscrire, vous connecter et voir les produits de l'API.
 
-J'utilise la méthode d'autorisation password pour me connecter à l'API.
+J'utilise la méthode d'autorisation par mot de passe pour me connecter à l'API.
 
 This application is used to test the [BileMo](https://github.com/Maxxxiimus92/p7_bilemo) API.
 
